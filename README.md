@@ -71,8 +71,8 @@ Monitoreo con Prometheus
 Visualización con Grafana
 Uso de Docker Compose
 
-images/Captura.PNG
-images/zx.PNG
+![Grafana](Captura.PNG)
+![Prometheus](zx.PNG)
 
 🧑 Autor
 
